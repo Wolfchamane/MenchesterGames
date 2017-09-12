@@ -1,0 +1,53 @@
+{
+    "players": [
+        {
+            "number": 25,
+            "role": "G",
+            "name": "José",
+            "contact": {
+                "email": "j.blanco.aragon@gmail.com"
+            },
+            "picture": ""
+        },
+        {
+            "number": 14,
+            "role": "D",
+            "name": "Arturo",
+            "contact": {
+                "email": "arturo.mart.diaz@gmail.com",
+                "phone": "",
+                "twitter": "@Wolfchamane"
+            },
+            "picture": "https://lh3.googleusercontent.com/-EPiP2QQSF3E/UOQe9FITFWI/AAAAAAAAAE4/niPoOSQepjUKEJgMGWiFFo9OIymK-4GigCEwYBhgL/w140-h140-p/231152_10151317758066869_1906256594_n.jpg"
+        },
+        {
+            "number": 8,
+            "role": "M",
+            "name": "Pablo \"Chencho\"",
+            "contact": {
+                "email": "pablo.martos@gmail.com"
+            },
+            "picture": "",
+            "captain": true
+        },
+        {
+            "number": 7,
+            "role": "S",
+            "name": "Ruano",
+            "contact": {
+                "email": "carlos.ruano7@gmail.com"
+            },
+            "picture": ""
+        }
+    ],
+    "games": [
+        {
+            "season": 2016,
+            "matches": []
+        },
+        {
+            "season": 2017,
+            "matches": []
+        }
+    ]
+}
